@@ -5,7 +5,7 @@
  ![image](https://user-images.githubusercontent.com/92569350/212089245-8c39fa7e-fe02-422d-9940-4ba1344e4a8d.png)
  
 
-# Organize your notes and info
+# Organize your notes and information
 
 Use the prime features of OneNote, which is easy to use, navigate and organize. Store your notes by following the below structure:
 
