@@ -1,13 +1,8 @@
 
 # Jot down your notes using OneNote
 
-![image](https://user-images.githubusercontent.com/92569350/212089245-8c39fa7e-fe02-422d-9940-4ba1344e4a8d.png)
-
-
-
-
  ### OneNote is a digital notebook application, where you can note your ideas, plans, quick sketches, voice, videos, and any other bit of information. Easily organize and categorize all your data in OneNote into notebooks, sections, and pages. OneNote uses the cloud storage. This lets you to switch your devices and carry your notes anywhere you go. 
-
+ ![image](https://user-images.githubusercontent.com/92569350/212089245-8c39fa7e-fe02-422d-9940-4ba1344e4a8d.png)
  
 
 # Organize your notes and info
