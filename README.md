@@ -1,26 +1,12 @@
 
-
-
-_____________________________________________________________________________________________________
-
-
-Read full article on LinkedIn. Click the link below:
-
-https://www.linkedin.com/pulse/jot-down-your-notes-using-onenote-vishnu-das-1e/?trackingId=9uMym363TciBNEU%2F5Vzc9Q%3D%3D
-
-
-____________________________________________________________________________________________________________
-
+# Jot down your notes using OneNote
 
 ![image](https://user-images.githubusercontent.com/92569350/212089245-8c39fa7e-fe02-422d-9940-4ba1344e4a8d.png)
 
 
 
 
- # OneNote is a digital notebook application, where you can note your ideas, plans, quick sketches, voice, videos, and any other bit of information. 
-
-
-Easily organize and categorize all your data in OneNote into notebooks, sections, and pages. OneNote uses the cloud storage. This lets you to switch your devices and carry your notes anywhere you go. 
+ ### OneNote is a digital notebook application, where you can note your ideas, plans, quick sketches, voice, videos, and any other bit of information. Easily organize and categorize all your data in OneNote into notebooks, sections, and pages. OneNote uses the cloud storage. This lets you to switch your devices and carry your notes anywhere you go. 
 
  
 
@@ -64,5 +50,13 @@ Interested to know more about OneNote? Watch the helpful YouTube videos using th
 * https://www.youtube.com/watch?v=I725xySvwug
 * https://www.youtube.com/watch?v=Poepoh1b_3k
 
+_____________________________________________________________________________________________________
 
+
+Click the link to read the full article on LinkedIn. 
+
+https://www.linkedin.com/pulse/jot-down-your-notes-using-onenote-vishnu-das-1e/?trackingId=9uMym363TciBNEU%2F5Vzc9Q%3D%3D
+
+
+____________________________________________________________________________________________________________
  #onenote #microsoft #documentation #technicalwriting #digitalnote #notetaking #notes #productivityimprovement #productivitytips 
